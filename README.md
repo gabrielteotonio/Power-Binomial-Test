@@ -4,14 +4,9 @@ With the aim to compare the performance of the test statistic T in the following
 
   - Normal(0.5,1);
   
-  - Exponential(2);
-  
   - Uniform(0,1);
   
-  - Cauchy(0.5,1);
-  
-  - Log Normal(0.5,1).
- 
+  - Contaminated Normal 5%, 10%, 50%
  ## Normal
  ![img](powerPlots/normalPlot.png)
  
